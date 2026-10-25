@@ -9,4 +9,15 @@ Schematics:
 
 
 PCB Render:
+
 <img width="676" height="499" alt="Screenshot 2026-10-24 213615" src="https://github.com/user-attachments/assets/3edcc243-de81-4575-ad3b-44ad037f1cb1" />
+
+
+BOM:
+|Item                    |Qty|Supplier |Cost/item|Total Cost|link                      |
+|------------------------|---|---------|---------|----------|--------------------------|
+|Waveshare ESP-32-S3     |1  |RobotShop|$6.79    |$6.79     |https://www.robotshop.com/|
+|EC11 Rotary Encoder     |1  |RobotShop|$3.65    |$3.65     |https://www.robotshop.com/|
+|128x64 OLED             |1  |RobotShop|$3.49    |$3.49     |https://www.robotshop.com/|
+|PCB                     |1  |JLCPCB   |$4.00    |$4.00     |https://jlcpcb.com/       |
+|Estimated total shipping|1  |         |         |$11.89    |                          |
