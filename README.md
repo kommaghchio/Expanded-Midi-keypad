@@ -9,3 +9,6 @@ Schematics:
 
 
 BOM:
+
+PCB Render:
+<img width="676" height="499" alt="Screenshot 2026-10-24 213615" src="https://github.com/user-attachments/assets/3edcc243-de81-4575-ad3b-44ad037f1cb1" />
