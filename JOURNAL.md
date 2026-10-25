@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmvewhkcc0adn01rc9dwo1d35). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> This is a MIDI keyboard, it plays midi, maybee it can have some more features?
+> The original Hack Club MIDI keypad (https://github.com/KaiPereira/MIDI-Keypad/tree/master), but with some additional features.  Powered by a XIAO-ESP32-S3, this project creates a MIDI keypad that allows you to play individual notes on a variety of instruments, controlled by turning the rotary encoder. From there each of the 7 capacitive touch keys plays a different note. Finally, the OLED screen shows which instrument you have selected, along with a WinAMP style display.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
